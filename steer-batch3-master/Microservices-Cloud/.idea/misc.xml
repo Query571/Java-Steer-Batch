@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Cloud-Bus/Config-Client/pom.xml" />
+        <option value="$PROJECT_DIR$/Cloud-Bus/Config-Client2/pom.xml" />
+        <option value="$PROJECT_DIR$/Cloud-Bus/Config-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Config-Server/ConfigServer-Client/pom.xml" />
+        <option value="$PROJECT_DIR$/Config-Server/ConfigServer-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Feign/Config-Client/pom.xml" />
+        <option value="$PROJECT_DIR$/Feign/Config-Client2/pom.xml" />
+        <option value="$PROJECT_DIR$/Feign/Config-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka/Cart-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka/Config-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka/Email-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka/Eureks-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka/Order-Service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SQLPlugin.ProjectConfiguration">
+    <queries />
+  </component>
+</project>

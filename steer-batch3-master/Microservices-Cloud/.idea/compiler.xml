@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Config-Client (3)" />
+        <module name="Config-Client (2)" />
+        <module name="Config-Client" />
+        <module name="Config-Client (1)" />
+        <module name="Config-Server (3)" />
+        <module name="Config-Server (2)" />
+        <module name="Cart-Service" />
+        <module name="Config-Server (1)" />
+        <module name="Config-Client (4)" />
+        <module name="Config-Server" />
+        <module name="Email-Service" />
+        <module name="Order-Service" />
+        <module name="Eureks-Server" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Cart-Service" options="-parameters" />
+      <module name="Config-Client" options="-parameters" />
+      <module name="Config-Client (1)" options="-parameters" />
+      <module name="Config-Client (2)" options="-parameters" />
+      <module name="Config-Client (3)" options="-parameters" />
+      <module name="Config-Client (4)" options="-parameters" />
+      <module name="Config-Server" options="-parameters" />
+      <module name="Config-Server (1)" options="-parameters" />
+      <module name="Config-Server (2)" options="-parameters" />
+      <module name="Config-Server (3)" options="-parameters" />
+      <module name="Email-Service" options="-parameters" />
+      <module name="Eureks-Server" options="-parameters" />
+      <module name="Order-Service" options="-parameters" />
+    </option>
+  </component>
+</project>

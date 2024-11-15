@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Order-Service" />
+        <module name="Price-Service" />
+        <module name="Sender-Service" />
+        <module name="Cart-Service" />
+        <module name="Search-Service" />
+        <module name="2-Service2" />
+        <module name="Product-Calelog" />
+        <module name="Receiver-Service" />
+        <module name="1-Service1" />
+        <module name="Email-Service" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="1-Service1" options="-parameters" />
+      <module name="2-Service2" options="-parameters" />
+      <module name="Cart-Service" options="-parameters" />
+      <module name="Email-Service" options="-parameters" />
+      <module name="Order-Service" options="-parameters" />
+      <module name="Price-Service" options="-parameters" />
+      <module name="Product-Calelog" options="-parameters" />
+      <module name="Receiver-Service" options="-parameters" />
+      <module name="Search-Service" options="-parameters" />
+      <module name="Sender-Service" options="-parameters" />
+    </option>
+  </component>
+</project>
